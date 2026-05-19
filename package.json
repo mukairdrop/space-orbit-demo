@@ -1,0 +1,13 @@
+{
+  "name": "space-orbit-demo",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@spacecomputer-io/orbitport-sdk-ts": "latest"
+  }
+}
